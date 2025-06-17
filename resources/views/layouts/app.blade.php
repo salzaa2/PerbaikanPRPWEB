@@ -39,7 +39,7 @@
 
     <!-- Footer -->
     <footer class="bg-blue-600 text-white text-center py-4 mt-10 shadow-inner">
-        <p>&copy; {{ date('Y') }} Sistem Kos. All rights reserved.</p>
+        <p>&copy; {{ date('Y') }} Sistem Kos Asri Punya Dhiraaa</p>
     </footer>
 
     @stack('scripts')
